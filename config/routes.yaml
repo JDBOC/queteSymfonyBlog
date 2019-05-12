@@ -2,5 +2,5 @@
 
 # the "app_blog_index" route name is not important yet
 app_blog_index:
-    path: /blog/
+    path: /
     controller: App\Controller\DefaultController::index
